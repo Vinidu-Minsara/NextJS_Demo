@@ -1,4 +1,3 @@
-import React from "react";
 import SideNav from "@/app/ui/dashboard/sidenav";
 
 const DashboardLayout = ({ children }: React.ReactNode) => {
